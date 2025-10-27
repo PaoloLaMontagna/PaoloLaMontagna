@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello, I'm [Paolo La Montagna] 👋
 
-<!--
-**PaoloLaMontagna/PaoloLaMontagna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎮 Game Developer Enthusiast | 💻 Computer Science Student | 🚀 Lifelong Learner
 
-Here are some ideas to get you started:
+I'm passionate about creating immersive game experiences and exploring the cutting edge of game development technologies. Currently studying Computer Science, I enjoy solving challenging problems and building projects that make an impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Interests
+- Game Development: Unity, Unreal Engine, Godot  
+- Programming Languages: C#, C++, Python, JavaScript  
+- Software & Tools: Git, Blender, Visual Studio, VS Code  
+- Topics: AI in games, multiplayer networking, graphics programming, procedural generation
+
+## What I’m working on
+- Developing my own 2D platformer using Unity  
+- Experimenting with shaders and real-time rendering techniques  
+- Contributing to open source game projects and libraries
+
+## Get in Touch
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/paolo-la-montagna-07361a326/).
+
+---
+
+Thanks for stopping by! 🚀
