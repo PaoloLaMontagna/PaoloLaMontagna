@@ -1,4 +1,4 @@
-# Hello, I'm [Paolo La Montagna] 👋
+# Hello, I'm Paolo La Montagna 👋
 
 ## About Me
 🎮 Game Developer Enthusiast | 💻 Computer Science Student | 🚀 Lifelong Learner
